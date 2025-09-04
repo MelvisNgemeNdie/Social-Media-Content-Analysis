@@ -1,7 +1,7 @@
 
 ##  Social Media Content Analysis
 
-### Description
+### Project Overview
 This project focused on analyzing the **Social Buzz content dataset** to audit **big data practices**, assess **content engagement trends**, and recommend strategies to support a **successful IPO**.  
 
 The analysis revealed audience preferences for **factual, real-life, and wellness-focused content**, providing actionable insights to refine content strategy and boost platform growth.  
