@@ -1,6 +1,4 @@
-
 ##  Social Media Content Analysis
-
 ### Project Overview
 This project focused on analyzing the **Social Buzz content dataset** to audit **big data practices**, assess **content engagement trends**, and recommend strategies to support a **successful IPO**.  
 
@@ -43,14 +41,8 @@ The company needed to:
 ---
 
 ### Dashboard Preview
-*(Add a screenshot of your Tableau dashboard here )*  
-
 
 ![Social Media Dashboard](./Social%20Media.png)
-
-
-
-[![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
 
 ---
 
