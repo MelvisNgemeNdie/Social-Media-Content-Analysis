@@ -46,7 +46,7 @@ The company needed to:
 *(Add a screenshot of your Tableau dashboard here )*  
 
 
-![Social Media Dashboard](./Social%20Media.PNG)
+![Social Media Dashboard](./Social%20Media.png)
 
 
 
