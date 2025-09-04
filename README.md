@@ -44,7 +44,10 @@ The company needed to:
 
 ### Dashboard Preview
 *(Add a screenshot of your Tableau dashboard here )*  
-![Social Buzz Content Analysis Dashboard](./Social%20Buzz%20Content%20Analysis%20Dashboard.PNG)
+
+
+![Social Media Dashboard](./Social%20Media.PNG)
+
 
 
 [![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
