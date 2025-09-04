@@ -1,14 +1,14 @@
 
-#  Social Media Content Analysis
+##  Social Media Content Analysis
 
-## Description
+### Description
 This project focused on analyzing the **Social Buzz content dataset** to audit **big data practices**, assess **content engagement trends**, and recommend strategies to support a **successful IPO**.  
 
 The analysis revealed audience preferences for **factual, real-life, and wellness-focused content**, providing actionable insights to refine content strategy and boost platform growth.  
 
 ---
 
-##  The Problem
+###  The Problem
 The company needed to:  
 - Audit **big data practices** to ensure readiness for scaling.  
 - Assess **content engagement** across categories.  
@@ -17,7 +17,7 @@ The company needed to:
 
 ---
 
-## Insights
+### Insights
 -  **Top 5 Categories:** Animals, Science, Healthy Eating, Technology, and Food.  
 -  **Animals & Science** emerged as the most popular, showing audience preference for **factual & real-life content**.  
 -  **Healthy Eating** ranked highest within food-related content, reflecting strong **user interest in wellness**.  
@@ -25,14 +25,14 @@ The company needed to:
 
 ---
 
-## Recommendations
+### Recommendations
 -  **Partner with Healthy Eating brands** and launch themed campaigns to boost engagement.  
 -  **Leverage factual and real-life content insights** to refine long-term content strategy and retain users.  
 -  **Capitalize on trending categories** during high-activity months to **increase visibility** and strengthen **IPO positioning**.  
 
 ---
 
-## Skills Used
+### Skills Used
 - **Data Understanding** – Explored content engagement data  
 - **Data Cleaning** – Processed unstructured big data for analysis  
 - **Data Modelling** – Structured engagement trends into meaningful KPIs  
@@ -42,13 +42,17 @@ The company needed to:
 
 ---
 
-## Dashboard Preview
-*(Add a screenshot of your Tableau/Power BI dashboard here if available)*  
+### Dashboard Preview
+*(Add a screenshot of your Tableau dashboard here )*  
 
 [![View Tableau Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourDashboardLinkHere)
 
 ---
 
-##  Key Takeaway
+###  Key Takeaway
 This project highlighted that **factual, real-life, and wellness-driven content** are key engagement drivers.  
 By aligning with audience preferences and capitalizing on trends, the platform can **accelerate growth, improve retention, and attract investors during IPO preparation**.
+
+
+---
+
