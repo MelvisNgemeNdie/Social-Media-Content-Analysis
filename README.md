@@ -1,7 +1,6 @@
 ##  Social Media Content Analysis
 ### Project Overview
 This project focused on analyzing the **Social Buzz content dataset** to audit **big data practices**, assess **content engagement trends**, and recommend strategies to support a **successful IPO**.  
-
 The analysis revealed audience preferences for **factual, real-life, and wellness-focused content**, providing actionable insights to refine content strategy and boost platform growth.  
 
 ---
@@ -39,9 +38,7 @@ The company needed to:
 - **Data Storytelling** – Presented strategies for growth & IPO readiness  
 
 ---
-
 ### Dashboard Preview
-
 ![Social Media Dashboard](./Social%20Media.png)
 
 ---
@@ -49,7 +46,6 @@ The company needed to:
 ###  Key Takeaway
 This project highlighted that **factual, real-life, and wellness-driven content** are key engagement drivers.  
 By aligning with audience preferences and capitalizing on trends, the platform can **accelerate growth, improve retention, and attract investors during IPO preparation**.
-
 
 ---
 
